@@ -3,6 +3,12 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Mac Files: 
+.DS_Store
+
+# Dataset Source Repo :
+Data/
+
 # C extensions
 *.so
 
